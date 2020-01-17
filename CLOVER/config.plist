@@ -858,7 +858,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02843403GUJH4RUE</string>
+		<string>C029176094NJH4R1F</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -890,9 +890,9 @@
 		<key>ProductName-Comment</key>
 		<string>Using Haswell MacBookAir6,2 until Clover has support for KabyLake identifiers</string>
 		<key>SerialNumber</key>
-		<string>C02XL0EEJHCD</string>
+		<string>C02YM0KNJHCD</string>
 		<key>SmUUID</key>
-		<string>A67AFCC4-F4DF-492D-B750-A2608D9BC4C7</string>
+		<string>DC2E3365-7962-4068-9621-365376593EE0</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
