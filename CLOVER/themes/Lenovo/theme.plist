@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>ClaudesTech</string>
+	<string>Liuwx</string>
 	<key>Description</key>
-	<string>Asus</string>
+	<string>Lenovo</string>
 	<key>Theme</key>
 	<dict>
 		<key>Anime</key>
@@ -19,6 +19,32 @@
 				<integer>4</integer>
 				<key>Path</key>
 				<string>options_anim</string>
+			</dict>
+			<dict>
+				<key>DistanceFromScreenEdgeX%</key>
+				<integer>30</integer>
+				<key>DistanceFromScreenEdgeY%</key>
+				<integer>26</integer>
+				<key>FrameTime</key>
+				<integer>50</integer>
+				<key>Frames</key>
+				<integer>117</integer>
+				<key>ID</key>
+				<integer>1</integer>
+				<key>NudgeX</key>
+				<integer>0</integer>
+				<key>NudgeY</key>
+				<integer>0</integer>
+				<key>OnTop</key>
+				<false/>
+				<key>Once</key>
+				<true/>
+				<key>Path</key>
+				<string>lenovo</string>
+				<key>ScreenEdgeX</key>
+				<string>left</string>
+				<key>ScreenEdgeY</key>
+				<string>top</string>
 			</dict>
 		</array>
 		<key>Background</key>
@@ -37,8 +63,25 @@
 			<key>Swap</key>
 			<true/>
 		</dict>
-		<key>Banner</key>
-		<string>banner.png</string>
+		<key>Components</key>
+		<dict>
+			<key>Banner</key>
+			<true/>
+			<key>Functions</key>
+			<true/>
+			<key>Help</key>
+			<false/>
+			<key>Label</key>
+			<true/>
+			<key>MenuTitle</key>
+			<true/>
+			<key>MenuTitleImage</key>
+			<true/>
+			<key>Revision</key>
+			<false/>
+			<key>Tools</key>
+			<true/>
+		</dict>
 		<key>Font</key>
 		<dict>
 			<key>CharWidth</key>
@@ -53,19 +96,27 @@
 		<key>Layout</key>
 		<dict>
 			<key>TextOffset</key>
-			<integer>-20</integer>
+			<integer>-360</integer>
+			<key>BannerOffset</key>
+			<integer>320</integer>
+			<key>ButtonOffset</key>
+			<integer>400</integer>
 		</dict>
 		<key>Selection</key>
 		<dict>
 			<key>Big</key>
-			<string>selection_big.png</string>
+			<string>Selection_big.png</string>
+			<key>ChangeNonSelectedGrey</key>
+			<false/>
 			<key>Color</key>
-			<string>0xFFFFFF80</string>
+			<string>0xFFFFFF16</string>
+			<key>OnTop</key>
+			<true/>
 			<key>Small</key>
-			<string>selection_small.png</string>
+			<string>Selection_small.png</string>
 		</dict>
 	</dict>
 	<key>Year</key>
-	<string>2017</string>
+	<string>2020</string>
 </dict>
 </plist>

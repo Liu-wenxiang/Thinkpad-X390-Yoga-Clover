@@ -848,17 +848,17 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>07/26/2019</string>
+		<string>12/09/2019</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MBP152.88Z.F000.B00.1907261958</string>
+		<string>MBP152.88Z.F000.B00.1912090107</string>
 		<key>Board-ID</key>
 		<string>Mac-827FB448E656EC26</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C029176094NJH4R1F</string>
+		<string>C029254044NJH4RJA</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -870,7 +870,7 @@
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>1037.0.39.151.1</string>
+		<string>1037.80.21.0.0</string>
 		<key>Family</key>
 		<string>MacBook Pro</string>
 		<key>FirmwareFeatures</key>
@@ -890,9 +890,9 @@
 		<key>ProductName-Comment</key>
 		<string>Using Haswell MacBookAir6,2 until Clover has support for KabyLake identifiers</string>
 		<key>SerialNumber</key>
-		<string>C02YM0KNJHCD</string>
+		<string>C02YW0U3JHCD</string>
 		<key>SmUUID</key>
-		<string>DC2E3365-7962-4068-9621-365376593EE0</string>
+		<string>1D114132-D7DC-4AB7-9E20-3FCAD59DAB3D</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
